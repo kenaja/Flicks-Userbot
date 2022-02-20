@@ -44,8 +44,8 @@ Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang sa
 <p><a href="https://t.me/StringSessionFlicksbot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 
-## DEPLOY TO HEROKU 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=ZmpnYW1pbmcyMTIvZmxpY2tzLWRlcGxveS11Ym90IEZsaWNrcy1Vc2VyYm90"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
+## DEPLOY TO HEROKU <img src="./resources/extras/Kenpurple.gif" width="40px">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenaja/Flicks-Userbot/tree/Flicks-Userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
 
 ### Tutorial Deploy
 ```
