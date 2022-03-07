@@ -45,7 +45,7 @@ Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang sa
 
 
 ## DEPLOY TO HEROKU <img src="./resources/extras/Kenpurple.gif" width="40px">
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenaja/Flicks-Userbot/tree/Flicks-Userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenaja/Flicks-Userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
 
 ### Tutorial Deploy
 ```
